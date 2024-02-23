@@ -1,4 +1,4 @@
-![MobileTemp2 - Copy (2)](https://github.com/mukilan1/Factify/assets/74693526/98ab511f-a874-46b8-9b49-41da942dd66c)# Dark Pattern Buster: E-Commerce Truth Enhancer  ![Factify Title](https://github.com/mukilan1/Factify/assets/74693526/38d90dfd-4bba-4670-9e43-80b65d02550f)
+# Dark Pattern Buster: E-Commerce Truth Enhancer  ![Factify Title](https://github.com/mukilan1/Factify/assets/74693526/38d90dfd-4bba-4670-9e43-80b65d02550f)
 
 
 ## Introduction
@@ -24,10 +24,9 @@ In the vast expanse of e-commerce, misleading product information is a significa
 - **Web Scraping:** Selenium for automated web browsing to collect product information.
 - **APIs:** Chat GPT API for data analysis and comparison; Bing API for fetching official product specifications.
 
-![Screenshot 2024-02-14 162739](https://github.com/mukilan1/Factify/assets/74693526/97f32f68-63f9-4a1b-81cc-0b1db7290257)
 
-![image-removebg-preview](https://github.com/mukilan1/Factify/assets/74693526/58c0de1e-aa9f-44d5-aab1-861c69f0c7f7) ![Uploading MobileTemp2 - Copy (2).jpg…]() 
 
+![MobileTemp2](https://github.com/mukilan1/Factify/assets/74693526/1e6891dc-4879-43f5-a086-cef3ae84e434)
 
 ## Installation
 
