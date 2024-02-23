@@ -25,10 +25,8 @@ In the vast expanse of e-commerce, misleading product information is a significa
 - **APIs:** Chat GPT API for data analysis and comparison; Bing API for fetching official product specifications.
 
 
-
 ![MobileTemp2](https://github.com/mukilan1/Factify/assets/74693526/1e6891dc-4879-43f5-a086-cef3ae84e434)
 
-![fyNobg](https://github.com/mukilan1/Factify/assets/74693526/54e16c6b-185e-4c0b-9ee5-57a762c123ad)
 
 ## Installation
 
