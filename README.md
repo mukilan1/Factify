@@ -1,4 +1,4 @@
-# Dark Pattern Buster: E-Commerce Truth Enhancer  ![Factify Title](https://github.com/mukilan1/Factify/assets/74693526/38d90dfd-4bba-4670-9e43-80b65d02550f)
+![MobileTemp2 - Copy (2)](https://github.com/mukilan1/Factify/assets/74693526/98ab511f-a874-46b8-9b49-41da942dd66c)# Dark Pattern Buster: E-Commerce Truth Enhancer  ![Factify Title](https://github.com/mukilan1/Factify/assets/74693526/38d90dfd-4bba-4670-9e43-80b65d02550f)
 
 
 ## Introduction
@@ -14,9 +14,9 @@ In the vast expanse of e-commerce, misleading product information is a significa
 - **Search History:** Users can access a history of their searches and comparisons, enabling easy reference to previously viewed products.
 - **Educational Content:** The application features a blog and awareness videos aimed at educating consumers about misleading practices and how to identify them.
 
-## Technology Stack
 
-![Screenshot 2024-02-09 100451](https://github.com/mukilan1/Factify/assets/74693526/1f94c50a-4dc9-4296-bf73-2a11ffd81334)
+
+## Technology Stack
 
 - **Frontend:** Flutter for a seamless, cross-platform mobile user experience.
 - **Backend:** Django REST Framework for efficient backend services and API management.
@@ -26,7 +26,8 @@ In the vast expanse of e-commerce, misleading product information is a significa
 
 ![Screenshot 2024-02-14 162739](https://github.com/mukilan1/Factify/assets/74693526/97f32f68-63f9-4a1b-81cc-0b1db7290257)
 
-![image-removebg-preview](https://github.com/mukilan1/Factify/assets/74693526/58c0de1e-aa9f-44d5-aab1-861c69f0c7f7)
+![image-removebg-preview](https://github.com/mukilan1/Factify/assets/74693526/58c0de1e-aa9f-44d5-aab1-861c69f0c7f7) ![Uploading MobileTemp2 - Copy (2).jpg…]() 
+
 
 ## Installation
 
