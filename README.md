@@ -28,16 +28,17 @@ In the vast expanse of e-commerce, misleading product information is a significa
 
 ![MobileTemp2](https://github.com/mukilan1/Factify/assets/74693526/1e6891dc-4879-43f5-a086-cef3ae84e434)
 
+![fyNobg](https://github.com/mukilan1/Factify/assets/74693526/54e16c6b-185e-4c0b-9ee5-57a762c123ad)
+
 ## Installation
 
 ```sh
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/mukilan1/Factify.git
 
 # Navigate to the project directory
 
 # Installation steps for frontend
-cd ../frontend
 flutter pub get
 
 # Start the backend server
@@ -46,4 +47,4 @@ python manage.py runserver
 # Run the Flutter application
 flutter run
 
-![fyNobg](https://github.com/mukilan1/Factify/assets/74693526/54e16c6b-185e-4c0b-9ee5-57a762c123ad)
+
