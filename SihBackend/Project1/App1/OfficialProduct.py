@@ -6,8 +6,6 @@ from . import API
 openai_api_key = API.ChatGPT_API
 bing_api_key = API.Bing_API
 
-# openai_api_key = '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'
-# bing_api_key  = 'ceb224e364e74104b706e569452c1dd4'
 
 def bing_search(query, bing_api_key, count=10):
     url = "https://api.bing.microsoft.com/v7.0/search"
